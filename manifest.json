@@ -7,7 +7,13 @@
 	"background":"https://github.com/Stremio/stremio-art/raw/main/originals/Jesiel%20Rocha%20Lofhagen.png",
     "contactEmail": "ahmidiyasser@gmail.com",
 
-    "catalogs": [],
+    "catalogs": [
+	    {
+	"id":"community.stremio-iptb",
+	"name":"Stremio-IPTV",
+	"type":"tv"
+	    }
+    ],
     "resources": [
 		{
             "name": "stream",
